@@ -1,0 +1,101 @@
+html {
+            height: 100%;
+        }
+body {
+            background-image: url("https://i.pinimg.com/736x/2c/39/07/2c3907a23f44b8a683e6d065947b0e15.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+            font-family:"Roboto Mono";
+            margin: 0;
+}
+#top {
+  background: #18dcff;
+  color: white;
+  text-align: center;
+  padding: 5px 10px;
+  margin-bottom: 70px;
+}
+h1 {
+  text-transform: capitalize;
+  font-size: 30px;
+  
+}
+
+#text1 {
+  font-style: semi-bold;
+  font-family: "verdana";
+}
+#ttcn {
+  
+  /*margin-top: 25px;
+  margin-bottom: 30px; */
+  margin: 25px 0 40px;
+  padding: 70px 40px 0 460px;
+  font-size: 150%;
+}
+      
+
+h2 {
+  margin: 0;
+  font-family: 'Mukta', sans-serif;
+
+}
+li {
+  list-style-type: square;
+  
+}
+#ttcn img {
+  height: 210px;
+  width: 210px;
+  position: relative;
+  right: 230px;
+  bottom: 195px;
+  border: 2px solid black;
+  border-radius: 20px 0 20px 0;
+}
+#hobby {
+  /*margin-top: 25px;
+  margin-bottom: 30px; */
+  margin: 25px 0 40px;
+  padding: 70px 40px 0 460px;
+  font-size: 150%;
+}
+#hobby img {
+  height: 210px;
+  width: 210px;
+  position: relative;
+  right: 230px;
+  bottom: 195px;
+  border: 2px solid black;
+  border-radius: 20px 0 20px 0;
+}
+#future_job {
+  position: relative;
+  /*margin-top: 25px;
+  margin-bottom: 30px; */
+  margin: 25px 0 40px;
+  padding: 30px 40px 0 465px;
+  font-size: 150%;
+}
+#future_job p, li {
+  margin: 0;
+  font-family: 'Mukta', sans-serif;
+  font-size: 90%
+ 
+}
+#future_job img {
+  height: 280px;
+  width: 280px;
+  position: relative;
+  right: 300px;
+  bottom: 280px;
+  border: 2px solid black;
+  border-radius: 20px 0 20px 0;
+}
+#switch_icon h1 {
+  background: #4b4b4b;
+  text-align: left;
+  padding: 0 0 0 20px;
+}
